@@ -1,0 +1,7 @@
+D:\ProyectoPooVF\ProyectoPooVF\bin\Debug\ProyectoPooVF.exe.config
+D:\ProyectoPooVF\ProyectoPooVF\bin\Debug\ProyectoPooVF.exe
+D:\ProyectoPooVF\ProyectoPooVF\bin\Debug\ProyectoPooVF.pdb
+D:\ProyectoPooVF\ProyectoPooVF\obj\Debug\ProyectoPooVF.csproj.AssemblyReference.cache
+D:\ProyectoPooVF\ProyectoPooVF\obj\Debug\ProyectoPooVF.csproj.CoreCompileInputs.cache
+D:\ProyectoPooVF\ProyectoPooVF\obj\Debug\ProyectoPooVF.exe
+D:\ProyectoPooVF\ProyectoPooVF\obj\Debug\ProyectoPooVF.pdb
